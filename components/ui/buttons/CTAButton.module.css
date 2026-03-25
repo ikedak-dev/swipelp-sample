@@ -1,0 +1,21 @@
+.button {
+  background: linear-gradient(180deg, #22c55e 0%, #16a34a 50%, #15803d 100%);
+  box-shadow: -2px 8px 4px rgba(0, 0, 0, 0.5);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.button:hover {
+  transform: translate(-2px, 8px);
+  box-shadow: none;
+}
+
+.shine {
+  background: linear-gradient(180deg, white, transparent);
+}
+
+.iconWrapper {
+  background: linear-gradient(180deg, #22c55e, #16a34a, #15803d);
+}

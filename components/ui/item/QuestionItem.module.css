@@ -1,0 +1,22 @@
+.optionBtn {
+  background-color: #f8fafc;
+  border: 1.5px solid #e2e8f0;
+}
+
+.optionBtnSelected {
+  background-color: #eff6ff;
+  border: 1.5px solid #1a3a6b;
+}
+
+.optionLabel {
+  color: #1a3a6b;
+}
+
+.optionLabelSelected {
+  color: #1a3a6b;
+  font-weight: 800;
+}
+
+.optionSub {
+  color: #94a3b8;
+}
